@@ -50,7 +50,7 @@ class ViewController: UIViewController, AVCaptureVideoDataOutputSampleBufferDele
         
         let devices = AVCaptureDevice.devices()
         
-        captureSession.sessionPreset = AVCaptureSessionPresetLow // can be changed
+        captureSession.sessionPreset = AVCaptureSessionPresetMedium // can be changed
         
         // Loop through all the capture devices on this phone
         for device in devices {
