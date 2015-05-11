@@ -36,6 +36,7 @@
 		2AFB18EB1B006DB3007A9640 /* xkcdColorPickerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = xkcdColorPickerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AFB18F01B006DB3007A9640 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2AFB18F11B006DB3007A9640 /* xkcdColorPickerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xkcdColorPickerTests.swift; sourceTree = "<group>"; };
+		2AFB18FB1B006E66007A9640 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				2AFB18D81B006DB3007A9640 /* xkcdColorPicker */,
+				2AFB18FB1B006E66007A9640 /* MyPlayground.playground */,
 				2AFB18EE1B006DB3007A9640 /* xkcdColorPickerTests */,
 				2AFB18D71B006DB3007A9640 /* Products */,
 			);
